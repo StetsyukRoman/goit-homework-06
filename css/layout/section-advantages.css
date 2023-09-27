@@ -18,7 +18,7 @@
 .none-title-list {
     display: flex;
     flex-direction: column;
-    gap: 72px;
+    gap: 72px 24px;
 }
 
 .none-title-item {
@@ -30,7 +30,7 @@
 
 @media(min-width:768px) {
     .none-title-item {
-        width: calc((100% - 72px) / 2);
+        width: calc((100% - 24px) / 2);
         flex-wrap: wrap;
         flex-direction: row;
     }
@@ -85,7 +85,6 @@
 .advantages-text {
     font-weight: 500;
     letter-spacing: 0.02em;
-    max-width: 288px;
 }
 
 @media(min-width:1158px) {

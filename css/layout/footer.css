@@ -29,6 +29,7 @@
 
 .container-footer {
     margin-top: 72px;
+    margin-bottom: 72px;
 }
 
 @media(min-width:768px) {

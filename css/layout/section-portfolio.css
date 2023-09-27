@@ -99,7 +99,7 @@
 
     .our-portfolio-item {
         flex-direction: row;
-        width: calc((100% - 72px) / 2);
+        width: calc((100% - 24px) / 2);
         flex-wrap: wrap;
         display: flex;
         justify-content: center;
