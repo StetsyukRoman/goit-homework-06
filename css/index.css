@@ -8,10 +8,10 @@
 
 /* LAYOUT */
 @import './layout/model-menu.css';
-@import './layout/backdrop.css';
 @import './layout/heder.css';
 @import './layout/section-hero.css';
-@import './layout/section-text.css';
+@import './layout/section-advantages.css';
 @import './layout/section-our-team.css';
 @import './layout/section-portfolio.css';
 @import './layout/footer.css';
+@import './layout/backdrop.css';
